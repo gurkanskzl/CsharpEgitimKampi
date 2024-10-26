@@ -7,5 +7,6 @@ Aşağıda örnek kod detaylarını inceleyebilirsiniz;
 
 Bu komutlar ile "Console.WriteLine(); Console.WriteLine(""); Console.Write("");" uygulamaları yazarak kodların ekran çıktısını öğrendim.
 
-💠DEĞİŞKEN (STRING)
+💠DEĞİŞKEN (INT, STRING, DOUBLE)
 
+CamelCase adlandırma standartı ile değil değişken tanımları ile kişisel bilgileri ekrana yazdıran ve küçük bir menü kartında bulunan ürünlerin fiyatlarını hesaplacak komutlar yazdım.
