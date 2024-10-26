@@ -12,5 +12,10 @@ Bu komutlar ile "Console.WriteLine(); Console.WriteLine(""); Console.Write("");"
 
 ✔️Değişkenler (Double, Char)
 
-Buradaki komutlar ile ondalıklı işlemler yaparak bir manav ürünleri ile ilgili fiyat listesi oluşturacak kodlamaları öğrendim. DipNot; ondalıklı sayılar console ekranında 'virgül' olarak görünür.
+Buradaki komutlar ile ondalıklı işlemler yaparak bir manav ürünleri ile ilgili fiyat listesi oluşturacak kodlamaları öğrendim. Klavyeden veri girişleri sınav not hesaplaması ve 'Parse' metodu kullandım ve karakter giriş örneği yaptım. DipNot; ondalıklı sayılar console ekranında 'virgül' olarak görünür.
 
+🔹Karar Yapıları (If Else, Mod, Switch Case)
+
+✔️Değişkenler (Double, Char)
+
+Buradaki kodlamalarda not ortalaması hesaplama ve hesap makinesi, klavyeden girilen sayıların modunu bulma işlemleri gerçekleştirdim.
