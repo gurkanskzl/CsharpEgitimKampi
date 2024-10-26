@@ -4,4 +4,5 @@ Bu repo, Murat Yücedağ'ın eğitmenliğinde gerçekleştirilen ilk 8 programla
 Aşağıda örnek kod detaylarını inceleyebilirsiniz;
 *************************************************
 💠EKRANA YAZDIRMA KOMUTLARI
+
 Bu komutlar ile "console" uygulamaları yaparak yazdığımız kodların ekran çıktısını öğrendim.
