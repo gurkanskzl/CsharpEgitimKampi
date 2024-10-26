@@ -6,6 +6,7 @@ Aşağıda örnek kod detaylarını inceleyebilirsiniz;
 💠EKRANA YAZDIRMA KOMUTLARI
 
 Bu komutlar ile "console" uygulamaları yaparak yazdığımız kodların ekran çıktısını öğrendim.
+
 Console.Writeline();
 Console.Writeline("");
 Console.Write("");
