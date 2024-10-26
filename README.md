@@ -4,6 +4,7 @@ Bu repo, Murat Yücedağ'ın eğitmenliğinde gerçekleştirilen ilk 8 programla
 Aşağıda örnek kod detaylarını inceleyebilirsiniz;
 
 💠EKRANA YAZDIRMA KOMUTLARI (MainSubject)
+
 Değişkenler (Int, String, Double)
 
 Bu komutlar ile "Console.WriteLine(); Console.WriteLine(""); Console.Write("");" uygulamaları yazarak kodların ekran çıktısını öğrendim.
