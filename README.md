@@ -5,4 +5,7 @@ Aşağıda örnek kod detaylarını inceleyebilirsiniz;
 
 💠EKRANA YAZDIRMA KOMUTLARI
 
-Bu komutlar ile "console" uygulamaları yazarak kodların ekran çıktısını öğrendim. -- Console.WriteLine(); Console.WriteLine(""); Console.Write(""); vb...
+Bu komutlar ile "Console.WriteLine(); Console.WriteLine(""); Console.Write("");" uygulamaları yazarak kodların ekran çıktısını öğrendim.
+
+💠DEĞİŞKEN (STRING)
+
